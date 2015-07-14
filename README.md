@@ -1,2 +1,2 @@
 # tuip.io
-Gives back your ip
+Proudly gives back your ip.
